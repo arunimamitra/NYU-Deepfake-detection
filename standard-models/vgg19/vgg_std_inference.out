@@ -1,0 +1,8 @@
+(pytorch_venv) bash-4.4$ python3 inference.py
+Using cuda
+Testing started
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 625/625 [00:55<00:00, 11.24it/s]
+Test accuracy: 0.9813999533653259
+True Positive (TP): 9817, True Negative (TN): 9811
+False Positive (FP): 189, False Negative (FN): 183
+Precision: 0.9811113476753235, Recall: 0.9817000031471252, F1 Score: 0.9814055562019348

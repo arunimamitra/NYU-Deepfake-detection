@@ -1,0 +1,7 @@
+Using cuda
+Testing started
+100%|█████████████████████████████████████████████████████████████████████████████████| 313/313 [03:47<00:00,  1.37it/s]
+Test accuracy:0.8340499997138977
+True Positive (TP): 8602, True Negative (TN): 8079
+False Positive (FP): 1921, False Negative (FN): 1398
+Precision: 0.8174474835395813, Recall: 0.8601999878883362, F1 Score: 0.8382790088653564

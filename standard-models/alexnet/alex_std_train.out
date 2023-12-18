@@ -1,0 +1,243 @@
+*****TRAINING STARTING*****\
+Epoch 1/30, Batch 0 Training Loss: 0.6938362121582031\
+Epoch 1/30, Batch 500 Training Loss: 0.5847573280334473\
+Epoch 1/30, Batch 1000 Training Loss: 0.6314718723297119\
+Epoch 1/30, Batch 1500 Training Loss: 0.6360661387443542\
+Epoch 1/30, Batch 2000 Training Loss: 0.34224122762680054\
+Epoch 1/30, Batch 2500 Training Loss: 0.6186355352401733\
+Epoch 1/30, Batch 3000 Training Loss: 0.40735989809036255\
+Epoch: 1/0 Average Train loss: 0.017482816510498524 Train accuracy: 0.6810299754142761 Val loss: 1.70912408066215e-05 Average Val accuracy: 0.71875\
+Epoch 2/30, Batch 0 Training Loss: 0.6032133102416992\
+Epoch 2/30, Batch 500 Training Loss: 0.5635799169540405\
+Epoch 2/30, Batch 1000 Training Loss: 0.28284358978271484\
+Epoch 2/30, Batch 1500 Training Loss: 0.2819806635379791\
+Epoch 2/30, Batch 2000 Training Loss: 0.4111011326313019\
+Epoch 2/30, Batch 2500 Training Loss: 0.39314377307891846\
+Epoch 2/30, Batch 3000 Training Loss: 0.6402163505554199\
+Epoch: 2/1 Average Train loss: 0.012843109441101551 Train accuracy: 0.8039999604225159 Val loss: 1.195974436996039e-05 Average Val accuracy: 0.8215000033378601\
+Epoch 3/30, Batch 0 Training Loss: 0.3524788022041321\
+Epoch 3/30, Batch 500 Training Loss: 0.2130489945411682\
+Epoch 3/30, Batch 1000 Training Loss: 0.11744321137666702\
+Epoch 3/30, Batch 1500 Training Loss: 0.28130972385406494\
+Epoch 3/30, Batch 2000 Training Loss: 0.17396771907806396\
+Epoch 3/30, Batch 2500 Training Loss: 0.421705424785614\
+Epoch 3/30, Batch 3000 Training Loss: 0.23122835159301758\
+Epoch: 3/2 Average Train loss: 0.009585425109490751 Train accuracy: 0.8642599582672119 Val loss: 8.471222827211022e-06 Average Val accuracy: 0.8763999938964844\
+Epoch 4/30, Batch 0 Training Loss: 0.19983553886413574\
+Epoch 4/30, Batch 500 Training Loss: 0.2655298411846161\
+Epoch 4/30, Batch 1000 Training Loss: 0.26584500074386597\
+Epoch 4/30, Batch 1500 Training Loss: 0.26418307423591614\
+Epoch 4/30, Batch 2000 Training Loss: 0.1910036951303482\
+Epoch 4/30, Batch 2500 Training Loss: 0.25006261467933655\
+Epoch 4/30, Batch 3000 Training Loss: 0.19898203015327454\
+Epoch: 4/3 Average Train loss: 0.007371806674450636 Train accuracy: 0.8998399972915649 Val loss: 1.8429731426294893e-05 Average Val accuracy: 0.9070000052452087\
+Epoch 5/30, Batch 0 Training Loss: 0.1658918261528015\
+Epoch 5/30, Batch 500 Training Loss: 0.19099681079387665\
+Epoch 5/30, Batch 1000 Training Loss: 0.22464032471179962\
+Epoch 5/30, Batch 1500 Training Loss: 0.13089680671691895\
+Epoch 5/30, Batch 2000 Training Loss: 0.17078323662281036\
+Epoch 5/30, Batch 2500 Training Loss: 0.21660596132278442\
+Epoch 5/30, Batch 3000 Training Loss: 0.10717957466840744\
+Epoch: 5/4 Average Train loss: 0.005760879042483866 Train accuracy: 0.9230200052261353 Val loss: 1.237068045156775e-05 Average Val accuracy: 0.9262999892234802\
+Epoch 6/30, Batch 0 Training Loss: 0.1642540991306305\
+Epoch 6/30, Batch 500 Training Loss: 0.25662946701049805\
+Epoch 6/30, Batch 1000 Training Loss: 0.3902835249900818\
+Epoch 6/30, Batch 1500 Training Loss: 0.22775745391845703\
+Epoch 6/30, Batch 2000 Training Loss: 0.06300784647464752\
+Epoch 6/30, Batch 2500 Training Loss: 0.15078218281269073\
+Epoch 6/30, Batch 3000 Training Loss: 0.25906163454055786\
+Epoch: 6/5 Average Train loss: 0.004703068652441725 Train accuracy: 0.9386999607086182 Val loss: 1.895704735943582e-05 Average Val accuracy: 0.9308499693870544\
+Epoch 7/30, Batch 0 Training Loss: 0.20243805646896362\
+Epoch 7/30, Batch 500 Training Loss: 0.037435807287693024\
+Epoch 7/30, Batch 1000 Training Loss: 0.11009454727172852\
+Epoch 7/30, Batch 1500 Training Loss: 0.09757307171821594\
+Epoch 7/30, Batch 2000 Training Loss: 0.06873731315135956\
+Epoch 7/30, Batch 2500 Training Loss: 0.0829092264175415\
+Epoch 7/30, Batch 3000 Training Loss: 0.19252996146678925\
+Epoch: 7/6 Average Train loss: 0.003724480753862299 Train accuracy: 0.9508399963378906 Val loss: 1.5095813068910502e-05 Average Val accuracy: 0.9405999779701233\
+Epoch 8/30, Batch 0 Training Loss: 0.05718943104147911\
+Epoch 8/30, Batch 500 Training Loss: 0.10948153585195541\
+Epoch 8/30, Batch 1000 Training Loss: 0.017202205955982208\
+Epoch 8/30, Batch 1500 Training Loss: 0.19442535936832428\
+Epoch 8/30, Batch 2000 Training Loss: 0.04380577430129051\
+Epoch 8/30, Batch 2500 Training Loss: 0.1654464304447174\
+Epoch 8/30, Batch 3000 Training Loss: 0.008814191445708275\
+Epoch: 8/7 Average Train loss: 0.003048185968892649 Train accuracy: 0.9607499837875366 Val loss: 1.6488309483975172e-05 Average Val accuracy: 0.9396999478340149\
+Epoch 9/30, Batch 0 Training Loss: 0.13771604001522064\
+Epoch 9/30, Batch 500 Training Loss: 0.12531203031539917\
+Epoch 9/30, Batch 1000 Training Loss: 0.14877349138259888\
+Epoch 9/30, Batch 1500 Training Loss: 0.09430518746376038\
+Epoch 9/30, Batch 2000 Training Loss: 0.023741619661450386\
+Epoch 9/30, Batch 2500 Training Loss: 0.16045336425304413\
+Epoch 9/30, Batch 3000 Training Loss: 0.090342216193676\
+Epoch: 9/8 Average Train loss: 0.0025081155152001885 Train accuracy: 0.9679699540138245 Val loss: 1.5832349163247272e-05 Average Val accuracy: 0.9452999830245972\
+Epoch 10/30, Batch 0 Training Loss: 0.025186743587255478\
+Epoch 10/30, Batch 500 Training Loss: 0.05220591276884079\
+Epoch 10/30, Batch 1000 Training Loss: 0.2577487826347351\
+Epoch 10/30, Batch 1500 Training Loss: 0.05384131148457527\
+Epoch 10/30, Batch 2000 Training Loss: 0.015901602804660797\
+Epoch 10/30, Batch 2500 Training Loss: 0.021477986127138138\
+Epoch 10/30, Batch 3000 Training Loss: 0.020908240228891373\
+Epoch: 10/9 Average Train loss: 0.0021081779004551936 Train accuracy: 0.9734999537467957 Val loss: 1.1406954399717506e-05 Average Val accuracy: 0.9503499865531921\
+Epoch 11/30, Batch 0 Training Loss: 0.008799119852483273\
+Epoch 11/30, Batch 500 Training Loss: 0.05465878173708916\
+Epoch 11/30, Batch 1000 Training Loss: 0.09755836427211761\
+Epoch 11/30, Batch 1500 Training Loss: 0.03859173506498337\
+Epoch 11/30, Batch 2000 Training Loss: 0.099151112139225\
+Epoch 11/30, Batch 2500 Training Loss: 0.01597088761627674\
+Epoch 11/30, Batch 3000 Training Loss: 0.024866385385394096\
+Epoch: 11/10 Average Train loss: 0.0016856732752441894 Train accuracy: 0.9786299467086792 Val loss: 4.17718638345832e-06 Average Val accuracy: 0.9423499703407288\
+Epoch 12/30, Batch 0 Training Loss: 0.0573003888130188\
+Epoch 12/30, Batch 500 Training Loss: 0.0060083139687776566\
+Epoch 12/30, Batch 1000 Training Loss: 0.025482917204499245\
+Epoch 12/30, Batch 1500 Training Loss: 0.006979675032198429\
+Epoch 12/30, Batch 2000 Training Loss: 0.05341081693768501\
+Epoch 12/30, Batch 2500 Training Loss: 0.05708969384431839\
+Epoch 12/30, Batch 3000 Training Loss: 0.0629592314362526\
+Epoch: 12/11 Average Train loss: 0.00139922179437679 Train accuracy: 0.9825899600982666 Val loss: 5.883805442863377e-06 Average Val accuracy: 0.9560499787330627\
+Epoch 13/30, Batch 0 Training Loss: 0.016251543536782265\
+Epoch 13/30, Batch 500 Training Loss: 0.013485407456755638\
+Epoch 13/30, Batch 1000 Training Loss: 0.005497622303664684\
+Epoch 13/30, Batch 1500 Training Loss: 0.004740907344967127\
+Epoch 13/30, Batch 2000 Training Loss: 0.04284316673874855\
+Epoch 13/30, Batch 2500 Training Loss: 0.011058604344725609\
+Epoch 13/30, Batch 3000 Training Loss: 0.06693439930677414\
+Epoch: 13/12 Average Train loss: 0.001177649442616239 Train accuracy: 0.9858299493789673 Val loss: 1.4229755834094249e-05 Average Val accuracy: 0.9588499665260315\
+Epoch 14/30, Batch 0 Training Loss: 0.02227286994457245\
+Epoch 14/30, Batch 500 Training Loss: 0.03058224357664585\
+Epoch 14/30, Batch 1000 Training Loss: 0.0042626820504665375\
+Epoch 14/30, Batch 1500 Training Loss: 0.009465623646974564\
+Epoch 14/30, Batch 2000 Training Loss: 0.11630208045244217\
+Epoch 14/30, Batch 2500 Training Loss: 0.011356709524989128\
+Epoch 14/30, Batch 3000 Training Loss: 0.006256641820073128\
+Epoch: 14/13 Average Train loss: 0.0010643840155364888 Train accuracy: 0.9868999719619751 Val loss: 2.7478909032652155e-05 Average Val accuracy: 0.9450500011444092\
+Epoch 15/30, Batch 0 Training Loss: 0.02588639035820961\
+Epoch 15/30, Batch 500 Training Loss: 0.0025644530542194843\
+Epoch 15/30, Batch 1000 Training Loss: 0.01787598803639412\
+Epoch 15/30, Batch 1500 Training Loss: 0.003846743842586875\
+Epoch 15/30, Batch 2000 Training Loss: 0.009755948558449745\
+Epoch 15/30, Batch 2500 Training Loss: 0.01946442574262619\
+Epoch 15/30, Batch 3000 Training Loss: 0.001632946077734232\
+Epoch: 15/14 Average Train loss: 0.0008461982335768698 Train accuracy: 0.9895899891853333 Val loss: 3.2400023428635905e-06 Average Val accuracy: 0.9574999809265137\
+Epoch 16/30, Batch 0 Training Loss: 0.0612637884914875\
+Epoch 16/30, Batch 500 Training Loss: 0.012720609083771706\
+Epoch 16/30, Batch 1000 Training Loss: 0.007206866052001715\
+Epoch 16/30, Batch 1500 Training Loss: 0.013654501177370548\
+Epoch 16/30, Batch 2000 Training Loss: 0.024727163836359978\
+Epoch 16/30, Batch 2500 Training Loss: 0.04892939701676369\
+Epoch 16/30, Batch 3000 Training Loss: 0.05010367929935455\
+Epoch: 16/15 Average Train loss: 0.0007707377479964998 Train accuracy: 0.990839958190918 Val loss: 9.089932063943706e-06 Average Val accuracy: 0.9595499634742737\
+Epoch 17/30, Batch 0 Training Loss: 0.018750451505184174\
+Epoch 17/30, Batch 500 Training Loss: 0.0075499373488128185\
+Epoch 17/30, Batch 1000 Training Loss: 0.01979263313114643\
+Epoch 17/30, Batch 1500 Training Loss: 0.013299117796123028\
+Epoch 17/30, Batch 2000 Training Loss: 0.03620775789022446\
+Epoch 17/30, Batch 2500 Training Loss: 0.0032150610350072384\
+Epoch 17/30, Batch 3000 Training Loss: 0.039425529539585114\
+Epoch: 17/16 Average Train loss: 0.0007081138425271638 Train accuracy: 0.9912499785423279 Val loss: 1.5372306734207086e-05 Average Val accuracy: 0.9615499973297119\
+Epoch 18/30, Batch 0 Training Loss: 0.00248541752807796\
+Epoch 18/30, Batch 500 Training Loss: 0.003544660983607173\
+Epoch 18/30, Batch 1000 Training Loss: 0.038600727915763855\
+Epoch 18/30, Batch 1500 Training Loss: 0.019473815336823463\
+Epoch 18/30, Batch 2000 Training Loss: 0.0004018337349407375\
+Epoch 18/30, Batch 2500 Training Loss: 0.07822611927986145\
+Epoch 18/30, Batch 3000 Training Loss: 0.008002988062798977\
+Epoch: 18/17 Average Train loss: 0.0005992806555989773 Train accuracy: 0.9927199482917786 Val loss: 9.951658284990117e-06 Average Val accuracy: 0.9613499641418457\
+Epoch 19/30, Batch 0 Training Loss: 0.0020609786733984947\
+Epoch 19/30, Batch 500 Training Loss: 0.0017671585083007812\
+Epoch 19/30, Batch 1000 Training Loss: 0.0037244190461933613\
+Epoch 19/30, Batch 1500 Training Loss: 0.004085690714418888\
+Epoch 19/30, Batch 2000 Training Loss: 0.04502430930733681\
+Epoch 19/30, Batch 2500 Training Loss: 0.08358888328075409\
+Epoch 19/30, Batch 3000 Training Loss: 0.04215504974126816\
+Epoch: 19/18 Average Train loss: 0.0005491774800916027 Train accuracy: 0.9935899972915649 Val loss: 1.7552243662066758e-05 Average Val accuracy: 0.9620999693870544\
+Epoch 20/30, Batch 0 Training Loss: 0.0016645549330860376\
+Epoch 20/30, Batch 500 Training Loss: 0.0027809611055999994\
+Epoch 20/30, Batch 1000 Training Loss: 0.08396472036838531\
+Epoch 20/30, Batch 1500 Training Loss: 0.002585554262623191\
+Epoch 20/30, Batch 2000 Training Loss: 0.0333324670791626\
+Epoch 20/30, Batch 2500 Training Loss: 0.0022034000139683485\
+Epoch 20/30, Batch 3000 Training Loss: 0.0011070729233324528\
+Epoch: 20/19 Average Train loss: 0.000486321437776769 Train accuracy: 0.9941099882125854 Val loss: 1.23027857625857e-05 Average Val accuracy: 0.9641000032424927\
+Epoch 21/30, Batch 0 Training Loss: 0.0008448072476312518\
+Epoch 21/30, Batch 500 Training Loss: 0.008617512881755829\
+Epoch 21/30, Batch 1000 Training Loss: 0.0005375313921831548\
+Epoch 21/30, Batch 1500 Training Loss: 0.047576118260622025\
+Epoch 21/30, Batch 2000 Training Loss: 0.005685877054929733\
+Epoch 21/30, Batch 2500 Training Loss: 0.004684297367930412\
+Epoch 21/30, Batch 3000 Training Loss: 0.0004093014285899699\
+Epoch: 21/20 Average Train loss: 0.0004310794542728354 Train accuracy: 0.9947800040245056 Val loss: 1.046180295816157e-05 Average Val accuracy: 0.9652999639511108\
+Epoch 22/30, Batch 0 Training Loss: 3.765237852348946e-05\
+Epoch 22/30, Batch 500 Training Loss: 0.06563840806484222\
+Epoch 22/30, Batch 1000 Training Loss: 0.00021548211225308478\
+Epoch 22/30, Batch 1500 Training Loss: 0.0008943345164880157\
+Epoch 22/30, Batch 2000 Training Loss: 0.0004136165080126375\
+Epoch 22/30, Batch 2500 Training Loss: 0.00034259396488778293\
+Epoch 22/30, Batch 3000 Training Loss: 0.013683302327990532\
+Epoch: 22/21 Average Train loss: 0.00038675638011070076 Train accuracy: 0.9955099821090698 Val loss: 4.232428636896657e-06 Average Val accuracy: 0.965499997138977\
+Epoch 23/30, Batch 0 Training Loss: 0.0015796590596437454\
+Epoch 23/30, Batch 500 Training Loss: 0.001417999854311347\
+Epoch 23/30, Batch 1000 Training Loss: 0.004347824025899172\
+Epoch 23/30, Batch 1500 Training Loss: 0.051047954708337784\
+Epoch 23/30, Batch 2000 Training Loss: 0.018430374562740326\
+Epoch 23/30, Batch 2500 Training Loss: 0.0075650932267308235\
+Epoch 23/30, Batch 3000 Training Loss: 0.0031990690622478724\
+Epoch: 23/22 Average Train loss: 0.0004119322104621733 Train accuracy: 0.9952999949455261 Val loss: 4.93913057653117e-06 Average Val accuracy: 0.9635999798774719\
+Epoch 24/30, Batch 0 Training Loss: 0.0010051580611616373\
+Epoch 24/30, Batch 500 Training Loss: 0.0008751013083383441\
+Epoch 24/30, Batch 1000 Training Loss: 0.02089734934270382\
+Epoch 24/30, Batch 1500 Training Loss: 0.00215503410436213\
+Epoch 24/30, Batch 2000 Training Loss: 0.0014880298404023051\
+Epoch 24/30, Batch 2500 Training Loss: 0.0017754982691258192\
+Epoch 24/30, Batch 3000 Training Loss: 0.00013060178025625646\
+Epoch: 24/23 Average Train loss: 0.00035080782951243234 Train accuracy: 0.9957599639892578 Val loss: 4.948859441356035e-06 Average Val accuracy: 0.9629999995231628\
+Epoch 25/30, Batch 0 Training Loss: 9.301534009864554e-05\
+Epoch 25/30, Batch 500 Training Loss: 0.0019375004339963198\
+Epoch 25/30, Batch 1000 Training Loss: 0.002250959165394306\
+Epoch 25/30, Batch 1500 Training Loss: 0.009257187135517597\
+Epoch 25/30, Batch 2000 Training Loss: 8.394605538342148e-05\
+Epoch 25/30, Batch 2500 Training Loss: 0.0002090323541779071\
+Epoch 25/30, Batch 3000 Training Loss: 0.0013088039122521877\
+Epoch: 25/24 Average Train loss: 0.0003008175106281124 Train accuracy: 0.9965199828147888 Val loss: 1.1472617188701406e-05 Average Val accuracy: 0.9631999731063843\
+Epoch 26/30, Batch 0 Training Loss: 0.0004451071727089584\
+Epoch 26/30, Batch 500 Training Loss: 0.0021431094501167536\
+Epoch 26/30, Batch 1000 Training Loss: 0.00015143747441470623\
+Epoch 26/30, Batch 1500 Training Loss: 0.0015465328469872475\
+Epoch 26/30, Batch 2000 Training Loss: 0.0002438790979795158\
+Epoch 26/30, Batch 2500 Training Loss: 0.00033197845914401114\
+Epoch 26/30, Batch 3000 Training Loss: 0.001399066299200058\
+Epoch: 26/25 Average Train loss: 0.0002773148732280242 Train accuracy: 0.9967199563980103 Val loss: 1.6135639953063219e-06 Average Val accuracy: 0.9652499556541443\
+Epoch 27/30, Batch 0 Training Loss: 0.0020106423180550337\
+Epoch 27/30, Batch 500 Training Loss: 0.006100648548454046\
+Epoch 27/30, Batch 1000 Training Loss: 0.0005560318822972476\
+Epoch 27/30, Batch 1500 Training Loss: 0.061160288751125336\
+Epoch 27/30, Batch 2000 Training Loss: 0.00017241219757124782\
+Epoch 27/30, Batch 2500 Training Loss: 0.09817640483379364\
+Epoch 27/30, Batch 3000 Training Loss: 0.008803680539131165\
+Epoch: 27/26 Average Train loss: 0.0002662074554377159 Train accuracy: 0.9968400001525879 Val loss: 2.5886445200740127e-06 Average Val accuracy: 0.9660499691963196\
+Epoch 28/30, Batch 0 Training Loss: 0.00295843742787838\
+Epoch 28/30, Batch 500 Training Loss: 0.026622401550412178\
+Epoch 28/30, Batch 1000 Training Loss: 0.0007851156406104565\
+Epoch 28/30, Batch 1500 Training Loss: 0.0023882214445620775\
+Epoch 28/30, Batch 2000 Training Loss: 0.014482347294688225\
+Epoch 28/30, Batch 2500 Training Loss: 0.001041429117321968\
+Epoch 28/30, Batch 3000 Training Loss: 0.0009437425178475678\
+Epoch: 28/27 Average Train loss: 0.00024292438692435553 Train accuracy: 0.9971199631690979 Val loss: 9.492429853708018e-06 Average Val accuracy: 0.9662999510765076\
+Epoch 29/30, Batch 0 Training Loss: 0.00037576182512566447\
+Epoch 29/30, Batch 500 Training Loss: 0.0015575697179883718\
+Epoch 29/30, Batch 1000 Training Loss: 0.0001447622198611498\
+Epoch 29/30, Batch 1500 Training Loss: 0.001263785525225103\
+Epoch 29/30, Batch 2000 Training Loss: 0.0002009845629800111\
+Epoch 29/30, Batch 2500 Training Loss: 0.0158810093998909\
+Epoch 29/30, Batch 3000 Training Loss: 9.957767906598747e-05\
+Epoch: 29/28 Average Train loss: 0.00023410219783254207 Train accuracy: 0.9973899722099304 Val loss: 9.014091119752266e-06 Average Val accuracy: 0.9690499901771545\
+Epoch 30/30, Batch 0 Training Loss: 6.293843762250617e-05\
+Epoch 30/30, Batch 500 Training Loss: 0.00032032682793214917\
+Epoch 30/30, Batch 1000 Training Loss: 0.004209726117551327\
+Epoch 30/30, Batch 1500 Training Loss: 0.00010591545287752524\
+Epoch 30/30, Batch 2000 Training Loss: 0.01140146516263485\
+Epoch 30/30, Batch 2500 Training Loss: 0.00021516653941944242\
+Epoch 30/30, Batch 3000 Training Loss: 0.0003861747100017965\
+Epoch: 30/29 Average Train loss: 0.0001891714124228315 Train accuracy: 0.9976499676704407 Val loss: 2.1587038645520806e-05 Average Val accuracy: 0.9628999829292297\
+*****TRAINING COMPLETE*****\
+}

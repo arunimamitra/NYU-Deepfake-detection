@@ -1,0 +1,8 @@
+Choosing vgg19
+Using cuda
+Testing started
+100%|█████████████████████████████████████████████████████████████████████████████████| 313/313 [02:58<00:00,  1.76it/s]
+Test accuracy: 0.9562999606132507
+True Positive (TP): 9503, True Negative (TN): 9623
+False Positive (FP): 377, False Negative (FN): 497
+Precision: 0.9618421196937561, Recall: 0.9502999782562256, F1 Score: 0.9560362100601196
