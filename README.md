@@ -2,3 +2,10 @@
 
 **Objective:**
 Use Convolutional Neural Networks to detect deepfakes in Face Images
+
+## Create Virtual Environment 
+The following commands can be used to create the conda environment and install all necessary dependencies:
+```bash
+python -m venv df_venv
+pip install -r requirements.txt
+```
