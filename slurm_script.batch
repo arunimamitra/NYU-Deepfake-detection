@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=2
+#SBATCH --time=10:00:00
+#SBATCH --mem=16G
+#SBATCH --account=csci_ga_2271_001-2023fa
+#SBATCH --partition=n1s16-v100-2
+#SBATCH --gres=gpu:v100:2
+#SBATCH --job-name=alexnet_comb
+#SBATCH --error=/scratch/ag8733/CV/%x.err
+#SBATCH --output=/scratch/ag8733/CV/%x.out
+#SBATCH --mail-type=all            # when something happens
+#SBATCH --mail-user=ag8733@nyu.edu # send me mail
+#SBATCH --requeue
+
+DATA_DIR='/scratch/ag8733/CV'
+cd "$DATA_DIR"
+source df_venv/bin/activate
+CUDA_VISIBLE_DEVICES=0,1
+python3 train.py 
+
+# Deactivate your virtual environment (if needed)
+deactivate
