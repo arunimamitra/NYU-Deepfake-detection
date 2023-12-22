@@ -27,6 +27,6 @@ sbatch slurm_script.batch
 
 This project was part of the coursework for the Computer Vision (Fall 2023) course at NYU.
 Contributors:
-* Anoushka Gupta (ag8733@nyu.edu)
 * Arunima Mitra (am13018@nyu.edu)
+* Anoushka Gupta (ag8733@nyu.edu)
 * Divyanshi Parashar (dp3635@nyu.edu)
